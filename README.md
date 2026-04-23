@@ -20,8 +20,8 @@
 medical-ml-coursework/
 ├── README.md                         # Описание данных
 ├── notebooks/
-│   ├── 01_recommendation.ipynb       # Задача 1: рекомендация услуг
-│   └── 02_matching.ipynb             # Задача 2: сопоставление наименований
+│   ├── 1_recommendation.ipynb       # Задача 1: рекомендация услуг
+│   └── 2_matching.ipynb             # Задача 2: сопоставление наименований
 
 ```
  
