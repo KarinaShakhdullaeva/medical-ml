@@ -306,7 +306,7 @@ st.markdown(
         margin-bottom: 0;
     }
 
-    /* ----- Карточки рекомендаций (st.container(key="reccard_...")) ----- */
+    /* Карточки рекомендаций (st.container(key="reccard_...")) */
     [class*="st-key-reccard_"] {
         background: white;
         border: 1px solid #BAE6FD;
@@ -325,7 +325,7 @@ st.markdown(
         align-items: center;
     }
 
-    /* ----- Widget sizing ----- */
+    /* Widget sizing */
     [data-testid="stWidgetLabel"] p {
         font-size: 18px !important;
         font-weight: 500;
